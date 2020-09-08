@@ -1,7 +1,7 @@
 # Login
-username = 'chetan.sharma@uipath.com'
-password = b'QU9MQGhhcHB5Xzk0NzI5'
-security_token = b'RWNVd3hUN1FpMmpmekJ1SDB1QWNNMU9Y'
+username = ''
+password = b''
+security_token = b''
 
 # SOQL
 query = "SELECT CaseNumber,Subject,Id,Priority,Account_Type__c  FROM Case  WHERE  CaseNumber='"
